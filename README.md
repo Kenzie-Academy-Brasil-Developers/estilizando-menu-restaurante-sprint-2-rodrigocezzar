@@ -9,20 +9,20 @@ Para o layout do menu 1, você utilizará as seguintes propriedades:
 ### Fonte
 
 1. Aplicou fontes e tamanhos apropriados:
-    - Family ‘Lato’ com tamanho 18px no body;
-    - Family ‘Supermercado One’ com tamanho 45px apara o nome do restaurante;
-    - Aplicou negrito e tamanho de 20px aos nomes de cada item do menu.
+    - Family ‘Lato’ com tamanho 18px no body; 
+    - Family ‘Supermercado One’ com tamanho 45px apara o nome do restaurante; 
+    - Aplicou negrito e tamanho de 20px aos nomes de cada item do menu. 
 
 ### Cores
 
 2. Usou as cores corretamente nas fontes:
-    - Aplicou `#5d4037` ao nome do restaurante;
-    - Aplicou `#6d4c41` aos cabeçalhos das seções;
+    - Aplicou `#5d4037` ao nome do restaurante; 
+    - Aplicou `#6d4c41` aos cabeçalhos das seções; 
     - Utilizou a keyword `firebrick` ou `#b22222` para os preços dos itens.
 
 ### Cabeçalho
 
-3. Os cabeçalhos das seções do menu (ex: “Starters”) estão em `small-caps`.
+3. Os cabeçalhos das seções do menu (ex: “Starters”) estão em `small-caps`. 
 
 ### Bordas
 
@@ -31,7 +31,7 @@ Para o layout do menu 1, você utilizará as seguintes propriedades:
 
 ### Fundo
 
-5. Aplicou a imagem 'map-b.jpg' para o fundo do menu.
+5. Aplicou a imagem 'map-b.jpg' para o fundo do menu. 
 
 ## Menu 2
 
