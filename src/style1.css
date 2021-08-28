@@ -33,7 +33,7 @@ nav {
 
 #menu {
     columns: 400px 2; column-gap: 100px;
-    column-rule: dotted #bc8f8f 2px;
+    column-rule: dashed #bc8f8f 2px;
 }
 section {
     margin-bottom: 50px;
@@ -71,6 +71,6 @@ dd {
 address {
     padding: 10px;
     border-width: 2px;
-    border-style: dotted;
+    border-style: dashed;
     border-color: #bc8f8f;
 }
